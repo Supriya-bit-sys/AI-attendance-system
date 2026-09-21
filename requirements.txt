@@ -10,3 +10,5 @@ bcrypt
 segno #qrcode
 pillow #image preprocessing
 streamlit #frontend library
+librosa
+resemblyzer
